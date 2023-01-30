@@ -1,0 +1,21 @@
+/* navigation css */
+.navigation__unorderedList {
+    list-style: none;
+}
+.navigation__link {
+    color: rgb(118, 29, 201);
+    text-decoration: none;
+}
+.navigation__link:visited {
+    color: rgb(3, 3, 94);
+}
+.navigation__link:focus {
+    outline: 1px solid;
+}
+.navigation__link:hover {
+    color: rgb(179, 30, 30);
+    outline: none;
+}
+.navigation__link:active {
+    color: rgb(12, 196, 196);
+}

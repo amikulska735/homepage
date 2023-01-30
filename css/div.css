@@ -1,0 +1,15 @@
+.element {
+    width: 300px;
+    background-color: gray;
+    height: 200px;
+}
+.subElement {
+    width: 50%;
+    height: 30%;
+    background-color: aqua;
+}
+.border {
+    width: 300px;
+    height: 200px;
+    border: 2px outset red;
+}

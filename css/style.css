@@ -1,0 +1,28 @@
+/* body css */
+html {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+.body__header {
+    background-color: rgb(122, 170, 122);
+    outline: 2px solid rgb(5, 134, 5);
+    border-radius: 2%;
+    text-align: center;
+    padding: 0 10px;
+}
+.body {
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: rgb(241, 238, 238);
+    color: rgb(0, 0, 0);
+}
+.dark {
+background-color: rgb(71, 71, 71);
+color: rgb(240, 237, 237);
+}

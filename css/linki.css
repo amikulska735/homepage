@@ -1,0 +1,9 @@
+.link {
+   color: white;
+   background-color: crimson;
+   text-decoration: none;
+   padding: 5px 10px;
+}
+.link:visited {
+    background-color: darkred;
+}
