@@ -22,7 +22,7 @@ html {
     background-color: rgb(241, 238, 238);
     color: rgb(0, 0, 0);
 }
-.dark {
+.body--dark {
 background-color: rgb(71, 71, 71);
 color: rgb(240, 237, 237);
 }
