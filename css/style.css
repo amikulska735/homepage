@@ -26,3 +26,9 @@ html {
 background-color: rgb(71, 71, 71);
 color: rgb(240, 237, 237);
 }
+.body__button {
+    width: 40%;
+    padding: 10px;
+    background-color: rgb(5, 114, 114);
+    color: rgb(255, 255, 255);
+}
