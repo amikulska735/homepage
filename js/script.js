@@ -18,4 +18,20 @@ const init = () => {
     
 };
 init();
+
+const removePhoto = () => {
+    const photoElement = document.querySelector(".js-photo");
+    photoElement.remove();
+  };
+ const removeSpan = () => {
+    const spanElement = document.querySelector(".js-span");
+    spanElement.remove();
+ };
+  const remove = () => {
+    const photoElement = document.querySelector(".js-photo");
+    photoElement.addEventListener("click", removePhoto);
+    photoElement.addEventListener("click", removeSpan);
+  };
+
+  remove();
 }
