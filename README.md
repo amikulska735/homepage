@@ -2,7 +2,7 @@
 ## GIF
 ![Animowany GIF](https://github.com/amikulska735/homepage/blob/main/images/Animation.gif) 
 ## Demo 
-https://amikulska735.github.io/currency-converter/
+https://amikulska735.github.io/homepage/
 ![Screenshot from debugger](https://github.com/amikulska735/homepage/blob/main/images/screenshot.PNG)
 ## Description
 This is my first project, created for a programming course. The project is about me. You can find some random informations of my life.
