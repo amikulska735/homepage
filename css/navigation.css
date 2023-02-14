@@ -3,11 +3,11 @@
     list-style: none;
 }
 .navigation__link {
-    color: rgb(7, 94, 109);
+    color: rgb(11, 147, 172);
     text-decoration: none;
 }
 .navigation__link:visited {
-    color: rgb(63, 147, 158);
+    color: rgb(82, 200, 216);
 }
 .navigation__link:focus {
     outline: 1px solid;
