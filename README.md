@@ -1,6 +1,6 @@
 # Agata Mikulska - moja strona
 ## GIF
-![Animowany GIF](../homepage/images/Animation.gif)
+![Animowany GIF](https://github.com/amikulska735/homepage/blob/main/images/Animation.gif) 
 ## Demo 
 https://amikulska735.github.io/currency-converter/
 ![Screenshot from debugger](../homepage/images/screenshot.PNG)
@@ -9,5 +9,4 @@ This is my first project, created for a programming course. The project is about
 ## What do I use in the project
 - JS code that switches background colour and removes photo
 - Normalize css, Google Fonts- Roboto, alternative Box Model
--Open Graph and icon in HTML
-
+- Open Graph and icon in HTML
