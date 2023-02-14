@@ -12,17 +12,19 @@ const toggleBackground = () => {
     changeBackground.innerText = bodyElement.classList.contains("body--dark") ?
     "jasny" : "ciemny";
 };
-
 const onRemoveButtonClick = () => {
-  const photoElement = document.querySelector("js-photo");
-  const spanElement = document.querySelector("js-span");
-  photoElement.remove();
-  spanElement.remove();
- };
+    const photoElement = document.querySelector(".js-photo");
+    const spanElement = document.querySelector(".js-span");
+    photoElement.remove();
+    spanElement.remove();
+};
 const init = () => {
     const buttonElement = document.querySelector(".js-button");
     buttonElement.addEventListener("click", toggleBackground);
+    const photoElement = document.querySelector(".js-photo");
     photoElement.addEventListener("click", onRemoveButtonClick);
 };
 init();
 }
+
+
